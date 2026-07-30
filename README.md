@@ -1,4 +1,4 @@
-# VocalBridge
+## VoiceTextAI_app
 
 Speech-to-Text and Text-to-Speech web application built with Flask.
 
